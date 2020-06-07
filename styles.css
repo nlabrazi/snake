@@ -40,7 +40,7 @@ background-size: cover;
 }
 
 #game {
-  background: url('/images/snake_back.jpg') no-repeat center center fixed;
+  background: url('images/snake_back.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -56,7 +56,7 @@ h1 {
 #allthethings {
   width:0px;
   height:0px;
-  
+
   border-left: 300px solid transparent;
   border-right:300px solid transparent;
   border-top: 300px solid transparent;
@@ -64,7 +64,7 @@ h1 {
   position:relative;
   margin:auto;
   top:5px;
-  left:2px;  
+  left:2px;
 }
 
 /*
@@ -85,7 +85,7 @@ h1 {
   transition:0.5s;
   color: black;
   font-family:shadows into light;
-  
+
   cursor:pointer;
 }
 
@@ -111,7 +111,7 @@ h1 {
   transition:0.5s;
   color: black;
   font-family:shadows into light;
-  
+
   cursor:pointer;
 }
 
@@ -137,7 +137,7 @@ h1 {
   transition:0.5s;
   color: black;
   font-family:shadows into light;
-  
+
   cursor:pointer;
 }
 
@@ -150,7 +150,7 @@ h1 {
 
 
 #credits {
-  
+
   position:relative;
   bottom:190px;
   right:125px;
@@ -164,7 +164,7 @@ h1 {
   transition:0.5s;
   color: black;
   font-family:shadows into light;
-  
+
   cursor:pointer;
 }
 
@@ -190,7 +190,7 @@ h1 {
   transition:0.5s;
   color:white;
   font-family:shadows into light;
-  
+
   cursor:pointer;
 }
 
