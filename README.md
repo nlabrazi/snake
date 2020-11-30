@@ -1,6 +1,6 @@
 # snakezer
 
 ## The famous game SNAKE
-### coded by vanilla JavaScript
+Coded with vanilla JavaScript
 
-Enjoy it at www.nabst3r.com !
+### Enjoy it at www.nabst3r.com !
